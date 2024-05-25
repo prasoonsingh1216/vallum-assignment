@@ -1,15 +1,1 @@
-Overview
-This repository analyzes equity investments, focusing on GARP style, and includes data extraction from SEBI reports and insights into selected stocks.
-
-Table of Contents
-Equity investing involves buying shares for returns through capital gains and dividends.
-GARP combines growth and value, seeking reasonably priced growth stocks.
-Differentiation: GARP seeks moderate growth with a balanced approach.
-Proficiency in Python, including data manipulation and web scraping.
-GARP analysis involves collecting, calculating, and filtering key metrics.
-Insights into SBIN, Adani Enterprises, HUL, Tata Steel, and MOIL.
-Experience in web scraping using Selenium for data extraction.
-Process for extracting NRI data: download, extract, compile, verify.
-Device configuration: i5/Ryzen 5+, 8GB+ RAM, Python, browsers, dual monitors.
-Conclusion
-This README provides a brief outline of the project and necessary configurations.
+This repository is dedicated to analyzing equity investments with a focus on the GARP style, utilizing data extraction from SEBI reports and providing insights into selected stocks. It covers essential topics such as equity investing, GARP investing, and the differentiation between investment styles. Proficiency in Python, including data manipulation and web scraping, is a key aspect of this analysis. The process of GARP analysis involves collecting, calculating, and filtering key metrics to identify suitable investment opportunities. Insights into specific stocks such as SBIN, Adani Enterprises, HUL, Tata Steel, and MOIL are also provided. Additionally, experience in web scraping using tools like Selenium for data extraction is highlighted. The process for extracting NRI data from SEBI reports involves downloading, extracting, compiling, and verifying data accuracy. Finally, the necessary device configuration for performing these tasks efficiently is outlined, including specifications for the computer and required software tools.
